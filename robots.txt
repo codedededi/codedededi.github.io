@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://codedededi.githuib.io/sitemap.xml
