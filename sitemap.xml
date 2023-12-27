@@ -2,10 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://codedededi.githuib.io/categories/</loc>
+    <loc>https://codedededi.github.io/</loc>
+    <lastmod>2023-12-27T11:43:24+08:00</lastmod>
   </url><url>
-    <loc>https://codedededi.githuib.io/</loc>
+    <loc>https://codedededi.github.io/posts/</loc>
+    <lastmod>2023-12-27T11:43:24+08:00</lastmod>
   </url><url>
-    <loc>https://codedededi.githuib.io/tags/</loc>
+    <loc>https://codedededi.github.io/tags/</loc>
+    <lastmod>2023-12-27T11:43:24+08:00</lastmod>
+  </url><url>
+    <loc>https://codedededi.github.io/posts/%E5%A6%82%E4%BD%95%E9%9B%B6%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2023-12-27T11:43:24+08:00</lastmod>
+  </url><url>
+    <loc>https://codedededi.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2023-12-27T11:43:24+08:00</lastmod>
+  </url><url>
+    <loc>https://codedededi.github.io/categories/</loc>
   </url>
 </urlset>
